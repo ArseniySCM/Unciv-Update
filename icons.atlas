@@ -1,0 +1,208 @@
+icons.png
+size: 416, 416
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Worker Tier 2
+rotate: false
+  xy: 96, 64
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Viking
+rotate: false
+  xy: 96, 160
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Jigernaut
+rotate: false
+  xy: 96, 256
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Catamaran 
+rotate: false
+  xy: 96, 352
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Big Catamaran 
+rotate: false
+  xy: 192, 352
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Work Boats Tier 2 
+rotate: false
+  xy: 192, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Cowboy
+rotate: false
+  xy: 192, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Crusader
+rotate: false
+  xy: 192, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Zaporozhets
+rotate: false
+  xy: 288, 0
+  size: 128, 128
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Bogatyr
+rotate: false
+  xy: 288, 128
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Gull
+rotate: false
+  xy: 288, 224
+  size: 128, 128
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Berber Cavalry
+rotate: false
+  xy: 288, 412
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pracinha
+rotate: false
+  xy: 388, 412
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shielder
+rotate: false
+  xy: 384, 128
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Nomad
+rotate: false
+  xy: 416, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Ninja
+rotate: false
+  xy: 512, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/National Guard
+rotate: false
+  xy: 608, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Migrant
+rotate: false
+  xy: 480, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Laser Saber
+rotate: false
+  xy: 576, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Tank
+rotate: false
+  xy: 544, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Middle Tank
+rotate: false
+  xy: 512, 256
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Lite Tank
+rotate: false
+  xy: 416, 224
+  size: 128, 128
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+UnitIcons/Mark-1
+rotate: false
+  xy: 544, 352
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ResourceIcons/Electric
+rotate: false
+  xy: 96, 0
+  size: 64, 64
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sich
+rotate: false
+  xy: 0, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pope's Square
+rotate: false
+  xy: 0, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+BuildingIcons/Clay Houses
+rotate: false
+  xy: 0, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+BuildingIcons/National Commercial Building
+rotate: false
+  xy: 0, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+BuildingIcons/Power Lines
+rotate: false
+  xy: 0, 384
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

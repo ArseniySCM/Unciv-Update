@@ -1,0 +1,187 @@
+improvements.png
+size: 416, 416
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Windmills
+rotate: false
+  xy: 0, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Coal Power Plant
+rotate: false
+  xy: 0, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Great Fort 
+rotate: false
+  xy: 0, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Fort Tier 2
+rotate: false
+  xy: 0, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Water Fabric
+rotate: false
+  xy: 64, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Water Plantation 
+rotate: false
+  xy: 64, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Water Attractions 
+rotate: false
+  xy: 64, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Corn Farm
+rotate: false
+  xy: 64, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mine Tier 2
+rotate: false
+  xy: 64, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Water Power Plant
+rotate: false
+  xy: 128, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Solar Panels
+rotate: false
+  xy: 128, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Brazilwood Camp
+rotate: false
+  xy: 128, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Kasbah
+rotate: false
+  xy: 128, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Kasbah
+rotate: false
+  xy: 0, 412
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Brazilwood Camp
+rotate: false
+  xy: 100, 412
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Great Fort
+rotate: false
+  xy: 200, 412
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Fort Tier 2
+rotate: false
+  xy: 300, 412
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Solar Panels
+rotate: false
+  xy: 200, 312
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Coal Power Plant
+rotate: false
+  xy: 200, 212
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Windmills 
+rotate: false
+  xy: 300, 312
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Water Attractions 
+rotate: false
+  xy: 300, 212
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mine Tier 2 
+rotate: false
+  xy: 400, 412
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Corn Farm
+rotate: false
+  xy: 400, 312
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Water Plantation 
+rotate: false
+  xy: 400, 212
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Water Fabric 
+rotate: false
+  xy: 300, 112
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Water Power Plant 
+rotate: false
+  xy: 200, 112
+  size: 100, 100
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
