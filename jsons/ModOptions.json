@@ -1,0 +1,9 @@
+{
+    "isBaseRuleset": true,
+    "constants":{
+    "maxXPfromBarbarians":45,
+    "cityExpandRange":4,
+    "maxSpyRank":4,
+    "minimumWarDuration":10,
+    }
+}
